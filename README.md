@@ -1,2 +1,2 @@
 # Decision-tree
-C45,gini,
+C45,gini,gain
